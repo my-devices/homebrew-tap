@@ -1,4 +1,4 @@
-# My-devices Tap
+# macchina.io REMOTE Device Agent and Client Tools Tap
 
 ## How do I install these formulae?
 
